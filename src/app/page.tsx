@@ -1,9 +1,9 @@
-import { Account } from "../components/Account";
-import { Balance } from "../components/Balance";
-import { ConnectKitButton } from "../components/ConnectKitButton";
-import { Connected } from "../components/Connected";
-import { JuiceboxProjectOwner } from "../components/JuiceboxProjectOwner";
-import { NetworkSwitcher } from "../components/NetworkSwitcher";
+import { Account } from "@/components/Account";
+import { Balance } from "@/components/Balance";
+import { ConnectKitButton } from "@/components/ConnectKitButton";
+import { Connected } from "@/components/Connected";
+import { JuiceboxProjectOwner } from "@/components/JuiceboxProjectOwner";
+import { NetworkSwitcher } from "@/components/NetworkSwitcher";
 
 export function Page() {
   return (

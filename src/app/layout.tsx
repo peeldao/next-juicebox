@@ -1,9 +1,8 @@
 import "./globals.css";
-
 import { Providers } from "./providers";
 
 export const metadata = {
-  title: "wagmi",
+  title: "Next.js + Juicebox",
 };
 
 export default function RootLayout({

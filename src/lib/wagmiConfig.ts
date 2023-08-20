@@ -1,7 +1,7 @@
 import { getDefaultConfig } from "connectkit";
 import { createConfig } from "wagmi";
 
-export const config = createConfig(
+export const wagmiConfig = createConfig(
   getDefaultConfig({
     autoConnect: true,
     appName: "My wagmi + ConnectKit + Juicebox App",

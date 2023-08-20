@@ -1,3 +1,3 @@
-'use client'
+"use client";
 
-export { ConnectKitButton } from 'connectkit'
+export { ConnectKitButton } from "connectkit";
