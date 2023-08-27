@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "connectkit": "^1.4.0",
-    "juice-hooks": "^4.0.2-beta",
+    "juice-hooks": "4.0.4-beta",
     "next": "^13.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
